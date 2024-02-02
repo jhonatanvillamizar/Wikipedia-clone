@@ -1,7 +1,11 @@
-# Wikipedia-clone
+>[!NOTE]
+>Wikipedia-clone
 
-Hola a todos aca les dejo el link de mi clone de wikipeida
+>[!TIP]
+>Que tal ya que estas por acá abajo te dejo el link y así puedes contarme que te pareció.
 
-https://jhonatanvillamizar.github.io/Wikipedia-clone/
+>[!NOTE]
+>https://jhonatanvillamizar.github.io/Wikipedia-clone/
 
-Muchas gracias por visitar mi clone!! :)
+>[!IMPORTANT]
+>Muchas gracias por visitar el sitio web!! 🤩🥳
